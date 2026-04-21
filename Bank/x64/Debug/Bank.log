@@ -1,0 +1,5 @@
+﻿  Bank.cpp
+C:\Users\LORD\Desktop\MyProjects\Bank\Bank\Bank.cpp(78,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LORD\Desktop\MyProjects\Bank\Bank\Bank.cpp(275,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\LORD\Desktop\MyProjects\Bank\Bank\Bank.cpp(341,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank.vcxproj -> C:\Users\LORD\Desktop\MyProjects\Bank\x64\Debug\Bank.exe
