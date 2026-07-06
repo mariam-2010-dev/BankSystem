@@ -1,2 +1,10 @@
 ﻿  Bank.cpp
+  Client.cpp
+  Transaction.cpp
+  User.cpp
+  Utility.cpp
+C:\Users\LORD\Desktop\MyProjects\Bank\Bank\Utility.cpp(16,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+C:\Users\LORD\Desktop\MyProjects\Bank\Bank\User.cpp(182,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+C:\Users\LORD\Desktop\MyProjects\Bank\Bank\Client.cpp(142,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
   Bank.vcxproj -> C:\Users\LORD\Desktop\MyProjects\Bank\x64\Debug\Bank.exe
