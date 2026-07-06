@@ -80,7 +80,7 @@ Bank/
 
 ### Login
 
-<img src="Images/LoginScreen.png.png" width="600" Alt="Main Menu">
+<img src="Images/LoginScreen.png" width="600" Alt="Main Menu">
 
 ### Main Menu
 
